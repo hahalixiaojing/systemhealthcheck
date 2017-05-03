@@ -23,6 +23,6 @@
 4. 命令输出结果 返回 200,表示http请求返回200，成功 
 
     > request url is :http://myapp.com/check/
-    1.request ip :10.187.104.156 > 200  
+    1.request ip :10.187.104.156 > 200
     2.request ip :172.22.22.235 > 200  
     3.request ip :10.191.172.19 > 200
