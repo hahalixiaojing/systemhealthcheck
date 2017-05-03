@@ -20,7 +20,8 @@
 
 3. 启动java 程序 java -jar healthcheck-1.0-SNAPSHOT.jar myapp
 
-4. 命令输出结果
+4. 命令输出结果 返回 200 表示检测成功
+
     > request url is :http://jingme.man.jd.com/jingme/test/
     1. request ip :10.187.104.156 > 200
 
